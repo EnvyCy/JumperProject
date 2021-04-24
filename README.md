@@ -1,7 +1,8 @@
 # JumperProject
 Run "main.py" to launch the game
 
-About
+About:
+
 A simplistic 2D platformer with randomly generated levels
 
 Player is controlled by arrow keys
