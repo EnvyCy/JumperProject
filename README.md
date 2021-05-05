@@ -1,4 +1,4 @@
-# JumperProject
+# Jumper
 Run "main.py" to launch the game
 
 About:
